@@ -1,1 +1,2 @@
-read me = lee esto
+Nahuel Medina Piconi
+Alumando de Pau Casesnoves
