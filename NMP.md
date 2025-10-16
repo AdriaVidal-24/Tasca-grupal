@@ -6,11 +6,14 @@ El objetivo del trabajo es aprender a trabajar en grupo utilizando ramas por cad
 Lo primero a hacer, es descargar el respositorio base para crear nuestra rama de forma local.
 Para esto utilizaremos "git clone".
 ![Imagen de Git clone](/NMPimg1.jpg)
-Como siguiente paso, crearemos una rama y nos movemremos a ella utilitzando "git checkout" para finalemente
-editar el archivo que nos pertenece del repositorio descargado.
+Como siguiente paso, crearemos una rama y nos moveremos a ella utilitzando "git checkout" para finalemente
+editar el archivo del repositorio descargado.
 Añadiremos el archivo al stage y haremos commit.
 ![Imagen de Git branch, checkout, add y commit](/NMPimg2.jpg)
-Finalemente volveremos a la rama main, juntarmeos la rama "Nahuel" y haremos un último commit 
+
+Despues, haremos un push para que nuestra rama se guarde. Volvemos a editar nustra rama y antes de hacer un commit
+haremos pull para tener el repositorio actualizado.
+Finalemente volveremos a la rama main, juntarmeos la rama "Nahuel" y haremos un último commit.
 ![Imagen de Git merge](/NMPimg3.jpg)
 
 #### Conclusión
