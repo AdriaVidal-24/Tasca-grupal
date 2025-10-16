@@ -12,3 +12,7 @@ Ahora, crearé un archivo md (MarkDown) para poder documentar todo lo que he hec
 ##Parte final de merge y resolución de conflictos
 Finalmente, a mi rama personal le hare un commit, push y merge. Resolveré conflictos con mi equipo para finalizar la tarea.
 ![Imagen final de merge y push](i_av/imagen3)
+
+##Reflexión y problemas a lo largo del trabajo
+Al principio no entendimos del todo la tarea en mano, asi que tuvimos que empezar de cero. Mas adelante, en este intento, hemos tenido que modificar nuestra rama dos veces para que podamos probar todo.
+Estoy a punto de entender del todo como trabajar en equipo con git.
